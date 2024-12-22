@@ -34,8 +34,8 @@ The User should be able to:
 
 ### Links
 
-- [Solution URL:](https://github.com/Lasse-Rodal/Monkey-Mirror-Matcher)
-- [Live Site URL:](https://lasse-rodal.github.io/Monkey-Mirror-Matcher/)
+- [Solution URL:](https://github.com/Lasse-Rodal/Palindrome-Checker-Monkey-Mirror-Matcher)
+- [Live Site URL:](https://lasse-rodal.github.io/Palindrome-Checker-Monkey-Mirror-Matcher/)
 
 ## My process
 
@@ -52,7 +52,7 @@ The User should be able to:
 In this project, I practiced:
 
 - Validating user input.
-- Dynamically showing and hiding elements using JavaScript.
+- Dynamically show and hide elements using JavaScript.
 - Using Flexbox for creating responsive layouts.
 - Adding interactivity through event listeners for user actions like input submission and reset.
 
